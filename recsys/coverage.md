@@ -5,4 +5,5 @@ Collaborative filtering, inputs are item  ratings
 Knowledge based reccomenders, inputs are means-end logic
 Prediction coverage = abs(IP) / abs(I)
 
-Weighting
+Weighted prediction converage
+- 

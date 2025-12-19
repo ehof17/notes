@@ -19,4 +19,3 @@ https://dl.acm.org/doi/epdf/10.1145/3292500.3330745
 
 *Inter-Group pairwise fairness*
 - Opposite group
-  
